@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Generative AI
 - 🌱 I’m currently learning Data Science with Python and Generative AI
 - 💞️ I’m looking to collaborate on open-source data science projects, ML model deployment, and AI-powered applications
-- 📫 How to reach me LinkedIn | tharunbolamoni12@gmail.com
+- 📫 How to reach me:  tharunbolamoni12@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can debug code better than I can decide what to eat 😄
 
